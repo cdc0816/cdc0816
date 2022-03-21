@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cdc0816
 - 👀 I’m interested in anything having to do with data
-- 🌱 I’m currently learning Python, Terraform, and Tensorflow 
 - 📫 How to reach me: cdc0816@gmail.com
 
 <!---
